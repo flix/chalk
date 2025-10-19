@@ -1,0 +1,6 @@
+[package]
+name        = "chalk"
+description = "test"
+version     = "1.0.0"
+flix        = "0.65.0"
+authors     = ["Magnus Madsen"]
