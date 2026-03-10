@@ -17,6 +17,8 @@
  */
 mod Chalk {
 
+    use Sys.Env
+
     ///
     /// A port of the popular Chalk library: https://github.com/chalk/chalk
     ///
